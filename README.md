@@ -4,8 +4,8 @@ Architecture micro services en GO pour site e-Commerce
 ## TODO
 ### Produit
 * ✅ Création interface GRPC
-* 🛠 Connexion à la base de données
-* ⏳ Conception des fonctions métiers
+* ✅ Connexion à la base de données
+* 🛠 Conception des fonctions métiers
 ### Utilisateur
 * ✅ Création interface GRPC
 * ⏳ Connexion à la base de données
